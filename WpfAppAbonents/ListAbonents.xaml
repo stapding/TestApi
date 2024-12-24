@@ -1,0 +1,44 @@
+﻿<Window x:Class="WpfAppAbonents.ListAbonents"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfAppAbonents"
+        mc:Ignorable="d"
+        Title="ListAbonents" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <StackPanel Grid.Row="0" HorizontalAlignment="Left" VerticalAlignment="Center" Orientation="Horizontal">
+            <Label x:Name="userNameTB" FontSize="20" Content="Тест"></Label>
+            <Button x:Name="addBTN" Content="Добавить" Margin="20,0,0,0" Click="addBTN_Click"></Button>
+            <Button x:Name="changeBTN" Content="Изменить" Margin="20,0,0,0" Click="changeBTN_Click"></Button>
+            <Button x:Name="removeBTN" Content="Удалить" Margin="20,0,0,0" Click="removeBTN_Click"></Button>
+            <TextBox x:Name="searchTB" Margin="20,0,0,0" Width="200" TextChanged="searchTB_TextChanged"></TextBox>
+            <ComboBox x:Name="searchToLB" Margin="20,0,0,0" Width="200" SelectedIndex="0">
+                <ComboBoxItem>Искать: телефон</ComboBoxItem>
+                <ComboBoxItem>Искать: фамилия</ComboBoxItem>
+            </ComboBox>
+
+        </StackPanel>
+
+        <StackPanel Grid.Row="1">
+            <ListView x:Name="abonentsList">
+                <ListView.View>
+                    <GridView>
+                        <GridViewColumn Header="Идентификатор" Width="auto" DisplayMemberBinding="{Binding Path=Id}"></GridViewColumn>
+                        <GridViewColumn Header="Телефон" Width="auto" DisplayMemberBinding="{Binding Path=Phone}"></GridViewColumn>
+                        <GridViewColumn Header="Адрес" Width="auto" DisplayMemberBinding="{Binding Path=Address}"></GridViewColumn>
+                        <GridViewColumn Header="Почта" Width="auto" DisplayMemberBinding="{Binding Path=Pochta}"></GridViewColumn>
+                        <GridViewColumn Header="Фамилия" Width="auto" DisplayMemberBinding="{Binding Path=Surname}"></GridViewColumn>
+                        <GridViewColumn Header="Имя" Width="auto" DisplayMemberBinding="{Binding Path=Name}"></GridViewColumn>
+                        <GridViewColumn Header="Отчество" Width="auto" DisplayMemberBinding="{Binding Path=Patronymic}"></GridViewColumn>
+                    </GridView>
+                </ListView.View>
+            </ListView>
+        </StackPanel>
+    </Grid>
+</Window>

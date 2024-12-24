@@ -1,0 +1,374 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\WebApplicationAbonents\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7906FA6A-6AE8-49A0-97C2-BE6E12723923}|WpfAppAbonents\\WpfAppAbonents.csproj|c:\\users\\administrator\\source\\repos\\webapplicationabonents\\wpfappabonents\\listabonents.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7906FA6A-6AE8-49A0-97C2-BE6E12723923}|WpfAppAbonents\\WpfAppAbonents.csproj|solutionrelative:wpfappabonents\\listabonents.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7906FA6A-6AE8-49A0-97C2-BE6E12723923}|WpfAppAbonents\\WpfAppAbonents.csproj|c:\\users\\administrator\\source\\repos\\webapplicationabonents\\wpfappabonents\\listabonents.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7906FA6A-6AE8-49A0-97C2-BE6E12723923}|WpfAppAbonents\\WpfAppAbonents.csproj|solutionrelative:wpfappabonents\\listabonents.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7906FA6A-6AE8-49A0-97C2-BE6E12723923}|WpfAppAbonents\\WpfAppAbonents.csproj|c:\\users\\administrator\\source\\repos\\webapplicationabonents\\wpfappabonents\\changeaddwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7906FA6A-6AE8-49A0-97C2-BE6E12723923}|WpfAppAbonents\\WpfAppAbonents.csproj|solutionrelative:wpfappabonents\\changeaddwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7906FA6A-6AE8-49A0-97C2-BE6E12723923}|WpfAppAbonents\\WpfAppAbonents.csproj|c:\\users\\administrator\\source\\repos\\webapplicationabonents\\wpfappabonents\\changeaddwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7906FA6A-6AE8-49A0-97C2-BE6E12723923}|WpfAppAbonents\\WpfAppAbonents.csproj|solutionrelative:wpfappabonents\\changeaddwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7906FA6A-6AE8-49A0-97C2-BE6E12723923}|WpfAppAbonents\\WpfAppAbonents.csproj|c:\\users\\administrator\\source\\repos\\webapplicationabonents\\wpfappabonents\\api.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7906FA6A-6AE8-49A0-97C2-BE6E12723923}|WpfAppAbonents\\WpfAppAbonents.csproj|solutionrelative:wpfappabonents\\api.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{467A1E71-92B4-42AF-864F-747934DF78FB}|WebApplicationAbonents\\WebApplicationAbonents.csproj|c:\\users\\administrator\\source\\repos\\webapplicationabonents\\webapplicationabonents\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{467A1E71-92B4-42AF-864F-747934DF78FB}|WebApplicationAbonents\\WebApplicationAbonents.csproj|solutionrelative:webapplicationabonents\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{467A1E71-92B4-42AF-864F-747934DF78FB}|WebApplicationAbonents\\WebApplicationAbonents.csproj|c:\\users\\administrator\\source\\repos\\webapplicationabonents\\webapplicationabonents\\controllers\\abonentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{467A1E71-92B4-42AF-864F-747934DF78FB}|WebApplicationAbonents\\WebApplicationAbonents.csproj|solutionrelative:webapplicationabonents\\controllers\\abonentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7906FA6A-6AE8-49A0-97C2-BE6E12723923}|WpfAppAbonents\\WpfAppAbonents.csproj|c:\\users\\administrator\\source\\repos\\webapplicationabonents\\wpfappabonents\\registerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7906FA6A-6AE8-49A0-97C2-BE6E12723923}|WpfAppAbonents\\WpfAppAbonents.csproj|solutionrelative:wpfappabonents\\registerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7906FA6A-6AE8-49A0-97C2-BE6E12723923}|WpfAppAbonents\\WpfAppAbonents.csproj|c:\\users\\administrator\\source\\repos\\webapplicationabonents\\wpfappabonents\\registerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7906FA6A-6AE8-49A0-97C2-BE6E12723923}|WpfAppAbonents\\WpfAppAbonents.csproj|solutionrelative:wpfappabonents\\registerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7906FA6A-6AE8-49A0-97C2-BE6E12723923}|WpfAppAbonents\\WpfAppAbonents.csproj|c:\\users\\administrator\\source\\repos\\webapplicationabonents\\wpfappabonents\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7906FA6A-6AE8-49A0-97C2-BE6E12723923}|WpfAppAbonents\\WpfAppAbonents.csproj|solutionrelative:wpfappabonents\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7906FA6A-6AE8-49A0-97C2-BE6E12723923}|WpfAppAbonents\\WpfAppAbonents.csproj|c:\\users\\administrator\\source\\repos\\webapplicationabonents\\wpfappabonents\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7906FA6A-6AE8-49A0-97C2-BE6E12723923}|WpfAppAbonents\\WpfAppAbonents.csproj|solutionrelative:wpfappabonents\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{467A1E71-92B4-42AF-864F-747934DF78FB}|WebApplicationAbonents\\WebApplicationAbonents.csproj|c:\\users\\administrator\\source\\repos\\webapplicationabonents\\webapplicationabonents\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{467A1E71-92B4-42AF-864F-747934DF78FB}|WebApplicationAbonents\\WebApplicationAbonents.csproj|solutionrelative:webapplicationabonents\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{467A1E71-92B4-42AF-864F-747934DF78FB}|WebApplicationAbonents\\WebApplicationAbonents.csproj|c:\\users\\administrator\\source\\repos\\webapplicationabonents\\webapplicationabonents\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{467A1E71-92B4-42AF-864F-747934DF78FB}|WebApplicationAbonents\\WebApplicationAbonents.csproj|solutionrelative:webapplicationabonents\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{467A1E71-92B4-42AF-864F-747934DF78FB}|WebApplicationAbonents\\WebApplicationAbonents.csproj|c:\\users\\administrator\\source\\repos\\webapplicationabonents\\webapplicationabonents\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{467A1E71-92B4-42AF-864F-747934DF78FB}|WebApplicationAbonents\\WebApplicationAbonents.csproj|solutionrelative:webapplicationabonents\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{467A1E71-92B4-42AF-864F-747934DF78FB}|WebApplicationAbonents\\WebApplicationAbonents.csproj|c:\\users\\administrator\\source\\repos\\webapplicationabonents\\webapplicationabonents\\models\\abonent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{467A1E71-92B4-42AF-864F-747934DF78FB}|WebApplicationAbonents\\WebApplicationAbonents.csproj|solutionrelative:webapplicationabonents\\models\\abonent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{467A1E71-92B4-42AF-864F-747934DF78FB}|WebApplicationAbonents\\WebApplicationAbonents.csproj|c:\\users\\administrator\\source\\repos\\webapplicationabonents\\webapplicationabonents\\models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{467A1E71-92B4-42AF-864F-747934DF78FB}|WebApplicationAbonents\\WebApplicationAbonents.csproj|solutionrelative:webapplicationabonents\\models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 89,
+          "SelectedChildIndex": 25,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f5cd1b51-c771-5648-966f-646d419b1e7c}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{08a1bf1d-7967-4afc-8253-1790862ab8c9}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChangeAddWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\WebApplicationAbonents\\WpfAppAbonents\\ChangeAddWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfAppAbonents\\ChangeAddWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\WebApplicationAbonents\\WpfAppAbonents\\ChangeAddWindow.xaml.cs",
+              "RelativeToolTip": "WpfAppAbonents\\ChangeAddWindow.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAEsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T19:11:05.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\WebApplicationAbonents\\WpfAppAbonents\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfAppAbonents\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\WebApplicationAbonents\\WpfAppAbonents\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfAppAbonents\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAtwCIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T17:49:59.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\WebApplicationAbonents\\WpfAppAbonents\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfAppAbonents\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\WebApplicationAbonents\\WpfAppAbonents\\MainWindow.xaml",
+              "RelativeToolTip": "WpfAppAbonents\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-24T17:50:01.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ListAbonents.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\WebApplicationAbonents\\WpfAppAbonents\\ListAbonents.xaml.cs",
+              "RelativeDocumentMoniker": "WpfAppAbonents\\ListAbonents.xaml.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\WebApplicationAbonents\\WpfAppAbonents\\ListAbonents.xaml.cs",
+              "RelativeToolTip": "WpfAppAbonents\\ListAbonents.xaml.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAWwGMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T18:35:36.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Api.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\WebApplicationAbonents\\WpfAppAbonents\\Api.cs",
+              "RelativeDocumentMoniker": "WpfAppAbonents\\Api.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\WebApplicationAbonents\\WpfAppAbonents\\Api.cs",
+              "RelativeToolTip": "WpfAppAbonents\\Api.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAAAEUAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T17:57:19.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\WebApplicationAbonents\\WebApplicationAbonents\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "WebApplicationAbonents\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\WebApplicationAbonents\\WebApplicationAbonents\\Controllers\\UserController.cs",
+              "RelativeToolTip": "WebApplicationAbonents\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T17:14:14.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AbonentController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\WebApplicationAbonents\\WebApplicationAbonents\\Controllers\\AbonentController.cs",
+              "RelativeDocumentMoniker": "WebApplicationAbonents\\Controllers\\AbonentController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\WebApplicationAbonents\\WebApplicationAbonents\\Controllers\\AbonentController.cs",
+              "RelativeToolTip": "WebApplicationAbonents\\Controllers\\AbonentController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAIwE8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T17:21:49.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChangeAddWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\WebApplicationAbonents\\WpfAppAbonents\\ChangeAddWindow.xaml",
+              "RelativeDocumentMoniker": "WpfAppAbonents\\ChangeAddWindow.xaml",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\WebApplicationAbonents\\WpfAppAbonents\\ChangeAddWindow.xaml",
+              "RelativeToolTip": "WpfAppAbonents\\ChangeAddWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-24T19:07:57.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ListAbonents.xaml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\WebApplicationAbonents\\WpfAppAbonents\\ListAbonents.xaml",
+              "RelativeDocumentMoniker": "WpfAppAbonents\\ListAbonents.xaml",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\WebApplicationAbonents\\WpfAppAbonents\\ListAbonents.xaml",
+              "RelativeToolTip": "WpfAppAbonents\\ListAbonents.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-24T18:31:47.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RegisterWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\WebApplicationAbonents\\WpfAppAbonents\\RegisterWindow.xaml",
+              "RelativeDocumentMoniker": "WpfAppAbonents\\RegisterWindow.xaml",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\WebApplicationAbonents\\WpfAppAbonents\\RegisterWindow.xaml",
+              "RelativeToolTip": "WpfAppAbonents\\RegisterWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-24T18:28:43.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\WebApplicationAbonents\\WebApplicationAbonents\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebApplicationAbonents\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\WebApplicationAbonents\\WebApplicationAbonents\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebApplicationAbonents\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-24T18:07:58.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RegisterWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\WebApplicationAbonents\\WpfAppAbonents\\RegisterWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfAppAbonents\\RegisterWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\WebApplicationAbonents\\WpfAppAbonents\\RegisterWindow.xaml.cs",
+              "RelativeToolTip": "WpfAppAbonents\\RegisterWindow.xaml.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAD4vygAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T18:28:50.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\WebApplicationAbonents\\WebApplicationAbonents\\Models\\User.cs",
+              "RelativeDocumentMoniker": "WebApplicationAbonents\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\WebApplicationAbonents\\WebApplicationAbonents\\Models\\User.cs",
+              "RelativeToolTip": "WebApplicationAbonents\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T18:24:28.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\WebApplicationAbonents\\WebApplicationAbonents\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplicationAbonents\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\WebApplicationAbonents\\WebApplicationAbonents\\Program.cs",
+              "RelativeToolTip": "WebApplicationAbonents\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T17:15:57.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Abonent.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\WebApplicationAbonents\\WebApplicationAbonents\\Models\\Abonent.cs",
+              "RelativeDocumentMoniker": "WebApplicationAbonents\\Models\\Abonent.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\WebApplicationAbonents\\WebApplicationAbonents\\Models\\Abonent.cs",
+              "RelativeToolTip": "WebApplicationAbonents\\Models\\Abonent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T17:13:22.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MydbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\WebApplicationAbonents\\WebApplicationAbonents\\Models\\MydbContext.cs",
+              "RelativeDocumentMoniker": "WebApplicationAbonents\\Models\\MydbContext.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\WebApplicationAbonents\\WebApplicationAbonents\\Models\\MydbContext.cs",
+              "RelativeToolTip": "WebApplicationAbonents\\Models\\MydbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T17:13:02.439Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{320fd13f-632f-4b16-9527-a1adfe555f6c}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
